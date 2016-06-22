@@ -1,3 +1,5 @@
+
+Touch friendly application
 Should have brightness control (slider)
 Can able to turn the page colour from white to yellowish (slider)
 Can write notes on the page 

@@ -1,0 +1,6 @@
+Should have brightness control (slider)
+Can able to turn the page colour from white to yellowish (slider)
+Can write notes on the page 
+can easily show your all the notes in the (note view)
+can import and export notes 
+integrate google translator ( word dictionary)
